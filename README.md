@@ -12,3 +12,6 @@ Fer2013_testaccuracy.ipynb under subfolders which are under emotic folder
 
 Getting Visualization of the confusion matrixes:
 run visualization.py under visualization folder
+
+Run the T-test and Z-test:
+run result.ipynb under t-z-test folder
