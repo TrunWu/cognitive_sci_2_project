@@ -14,4 +14,4 @@ Getting Visualization of the confusion matrixes:
 run visualization.py under visualization folder
 
 Run the T-test and Z-test:
-run result.ipynb under t-z-test folder
+run result.ipynb under T-test_Z-test folder
